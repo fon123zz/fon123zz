@@ -38,8 +38,8 @@ Sou um **FullStack Developer** de **Rio Grande do Sul, Brasil** 🌎.
 
 ## 🌐 Redes Sociais
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-fon-36581b22a/)](https://www.linkedin.com/in/SeuUsuario/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/edugomercindo23/)](https://www.instagram.com/SeuUsuario/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-fon-36581b22a/)]([https://www.linkedin.com/in/SeuUsuario/](https://www.linkedin.com/in/eduardo-fon-36581b22a/))
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/edugomercindo23/)]([https://www.instagram.com/SeuUsuario/](https://www.instagram.com/edugomercindo23/))
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/SeuCanal)](https://www.youtube.com/SeuCanal)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/SeuUsuario)](https://www.twitch.tv/SeuUsuario)
 [![TikTok Badge](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@SeuUsuario)](https://www.tiktok.com/@SeuUsuario)
